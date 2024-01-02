@@ -1,6 +1,6 @@
 # 国自然（NSFC）latex 模版
 
-！该模版也是几年前从网上找到后做了一些修改调整。最初的源项目已遗失，如果网友发现可指出，我会在repo里致谢。
+该模版由前人模版修改而成，供学术界同仁分享使用。本人不保证该模版与基金委当年的要求完全符合，请酌情调整后使用。
 
 ## Overleaf使用注意事项
 
@@ -9,5 +9,7 @@
 
 
 ## 相关其他模版
-- https://github.com/Ruzim/NSFC-application-template-latex
+- https://github.com/YimianDai/iNSFC 
 - https://github.com/MCG-NKU/NSFC-LaTex
+- https://github.com/Ruzim/NSFC-application-template-latex
+
